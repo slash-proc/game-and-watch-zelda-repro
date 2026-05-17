@@ -484,7 +484,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "gnw"
+    ],
     "pinned_symbol_libs": [
       "gwn"
     ]
