@@ -1,0 +1,105 @@
+(footprint "JMP-0805-CLOSED"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(tags "net tie")
+	(property "Reference" "REF**"
+		(at 0 -1.65 0)
+		(layer "F.SilkS")
+		(uuid "ddb618c9-ad7a-40e3-b282-29e5cd5e3e4f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "JMP-0805-CLOSED"
+		(at 0 1.6 0)
+		(layer "F.Fab")
+		(uuid "0104f2e4-d2d9-4310-b357-75aeef1b7553")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c183df5e-fb23-4c01-8ab9-4468ab99a839")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bbb53c21-05c0-4fc8-8f21-4f0cfd403018")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(net_tie_pad_groups "1,2")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_poly
+		(pts
+			(xy -0.5 -0.1505) (xy 0.5 -0.1505) (xy 0.5 0.1505) (xy -0.5 0.1505)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "360d1efe-81be-4b45-9372-da4ce11b6db5")
+	)
+	(pad "1" smd custom
+		(at -0.75 0)
+		(size 0.5 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy 0.599 0.15) (xy 0.199 0.15) (xy 0.199 -0.15) (xy 0.599 -0.15)
+				)
+				(width 0.001)
+				(fill yes)
+			)
+		)
+		(uuid "c79edce8-1482-406f-9447-d8b502bdc06d")
+	)
+	(pad "2" smd custom
+		(at 0.75 0)
+		(size 0.5 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives
+			(gr_poly
+				(pts
+					(xy -0.199 0.15) (xy -0.599 0.15) (xy -0.599 -0.15) (xy -0.199 -0.15)
+				)
+				(width 0.001)
+				(fill yes)
+			)
+		)
+		(uuid "17de7e05-876a-450a-a14c-aae06a94478b")
+	)
+	(embedded_fonts no)
+)

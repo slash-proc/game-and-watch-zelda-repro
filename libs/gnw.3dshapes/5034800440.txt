@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-16042024-017256";"";
+"REFERENCE";"5034800440";"";
+"TraceParts.PartTitle";"Easy-On";"";
+"TraceParts.InstanceId";"90-16042024-0172562N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"Easy-On FFC/FPC Connector, 0.50mm Pitch, FBH1 Series, Right-Angle, Dual Contact, 1.00mm Height, 4 Circuits, Gold over Nickel Plating";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

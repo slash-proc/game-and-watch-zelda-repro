@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-16042024-016881";"";
+"REFERENCE";"5020783310";"";
+"TraceParts.PartTitle";"Easy-On";"";
+"TraceParts.InstanceId";"90-16042024-0168812N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"Easy-On FPC Connector, 0.25mm Pitch, 1.00mm Mated Height, Right-Angle, Surface Mount, Bottom Contact Style, 33 Circuits, Halogen-Free, 3000 Pieces per Reel";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.3";"";

@@ -1,0 +1,290 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "9b9cb98d-5342-46f5-b23e-db612cfeb0ee")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 19.05 67.31)
+		(size 49.53 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "416e931e-d624-4a47-9739-e5bae319c039")
+		(property "Sheetname" "Audio"
+			(at 19.05 66.5984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "subsheets/audio.kicad_sch"
+			(at 19.05 107.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zelda-gnw-repro"
+				(path "/9b9cb98d-5342-46f5-b23e-db612cfeb0ee"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 19.05)
+		(size 53.34 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "630df5a6-ef09-4513-802b-c154f93770cc")
+		(property "Sheetname" "LCD"
+			(at 129.54 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "subsheets/lcd.kicad_sch"
+			(at 129.54 60.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zelda-gnw-repro"
+				(path "/9b9cb98d-5342-46f5-b23e-db612cfeb0ee"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 186.69 19.05)
+		(size 55.88 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "65d2cfa8-51ab-4dae-85b8-75241d9c759e")
+		(property "Sheetname" "SPI Flash"
+			(at 186.69 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "subsheets/spi_flash.kicad_sch"
+			(at 186.69 60.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zelda-gnw-repro"
+				(path "/9b9cb98d-5342-46f5-b23e-db612cfeb0ee"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 19.05)
+		(size 53.34 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ccfe03d8-3072-4412-86e2-7bcf7b5fc86f")
+		(property "Sheetname" "Power Delivery"
+			(at 72.39 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "subsheets/power.kicad_sch"
+			(at 72.39 60.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zelda-gnw-repro"
+				(path "/9b9cb98d-5342-46f5-b23e-db612cfeb0ee"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 72.39 67.31)
+		(size 53.34 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "deaf75bd-9ef4-4527-84b0-61f47426511c")
+		(property "Sheetname" "Button Inputs"
+			(at 72.39 66.5984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "subsheets/buttons.kicad_sch"
+			(at 72.39 107.2646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zelda-gnw-repro"
+				(path "/9b9cb98d-5342-46f5-b23e-db612cfeb0ee"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 19.05)
+		(size 49.53 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f86d59c5-5c03-43ef-962b-5930aacea554")
+		(property "Sheetname" "Main MCU"
+			(at 19.05 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "subsheets/mcu.kicad_sch"
+			(at 19.05 60.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zelda-gnw-repro"
+				(path "/9b9cb98d-5342-46f5-b23e-db612cfeb0ee"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
