@@ -2,7 +2,7 @@
 
 ![Zelda Game & Watch 3D Top Render](./assets/Render-2026-05-17.png)
 
-An open-source hardware attempt to reproduce and clone the PCB layout of the **Nintendo Game & Watch: The Legend of Zelda (2021 Edition)**. 
+An open-source hardware attempt to reproduce and clone the PCB layout of the Zelda version of the Nintendo Game & Watch (2021). 
 
 The goal of this project is to create a drop-in hardware reproduction that honors the mechanical constraints, component alignment, and routing logic of the original handheld, utilizing modern EDA workflows.
 
