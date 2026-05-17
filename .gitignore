@@ -1,0 +1,61 @@
+# ====================================================================
+# KiCad 10.0 Project Exclusions
+# ====================================================================
+
+# KiCad automatic backup directories and individual safety saves
+*-backups/
+*.bak
+*.kicad_bu/
+
+# Session lock files (prevents Git from locking up when KiCad is open)
+~*.lck
+
+# Local user-specific workspace configurations (window positions, grid settings, etc.)
+*.kicad_user
+
+# Diagnostic reports (Electrical Rule Check & Design Rule Check outputs)
+*.rpt
+
+# ====================================================================
+# Manufacturing & Output Exclusions (Optional)
+# ====================================================================
+# Uncomment these if you prefer to generate Gerbers/BOMs locally 
+# without pushing them to your remote repository.
+# gerbers/
+# outputs/
+# bom/
+
+# ====================================================================
+# Text Editors, IDEs, and OS Junk
+# ====================================================================
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Vim / Neovim
+.*.sw[a-p]
+.*.swo
+.netrwhist
+undo/
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list/
+tramp
+.\#*
+
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows System Files
+Thumbs.db
+Ehthumbs.db
+Desktop.ini
