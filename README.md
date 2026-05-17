@@ -6,6 +6,8 @@ An open-source hardware attempt to reproduce and clone the PCB layout of the **N
 
 The goal of this project is to create a drop-in hardware reproduction that honors the mechanical constraints, component alignment, and routing logic of the original handheld, utilizing modern EDA workflows.
 
+For now I'm trying to imitate the board as-is and will eventually move towards modifying it and the BOM to make it easier/at all possible to source the necessary components.
+
 ## Project Structure
 
 This project is self-contained and structured for **KiCad 10.0+**. All non-standard footprints, 3D models, and schematic symbols are bundled locally to ensure environment portability.
